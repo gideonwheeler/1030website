@@ -4,12 +4,13 @@ pink links/headers - #ad009c
 pink links hover - #db12c7*/
 
 body {
-	background-color:#85deff8;
+	background-color: #85deff;
 	padding: 0 24px 0px 24px;
 }
 
 p, li, table {
 	font-size: 1.2em;
+	color: #943400;
 }
 
 a {
@@ -23,10 +24,6 @@ a:hover {
 
 h1, h2 {
 	color: #ad009c;
-}
-
-p {
-	color: #943400;
 }
 
 h1, p.pic {
