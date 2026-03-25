@@ -4,11 +4,11 @@ pink links/headers - #ad009c
 pink links hover - #db12c7*/
 
 body {
-	background-color: #85deff;
+	background-color: ##bbe3f2;
 	padding: 0 24px 0px 24px;
 }
 
-p, li, table {
+p, li, th, td {
 	font-size: 1.2em;
 	color: #943400;
 }
@@ -28,6 +28,10 @@ h1, h2 {
 
 h1, p.pic {
 	text-align: center;
+}
+
+th {
+	font-style: bold;
 }
 
 th, td {
