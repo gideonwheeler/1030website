@@ -1,0 +1,42 @@
+/*brown/text - #943400
+blue background - #85deff8
+pink links/headers - #ad009c
+pink links hover - #db12c7*/
+
+body {
+	background-color: #85deff;
+	padding: 0 24px 0px 24px;
+}
+
+p, li, table {
+	font-size: 1.2em;
+	color: #943400;
+}
+
+a {
+	color: #ad009c;
+	font-style: italic;
+}
+
+a:hover {
+  color: #db12c7;
+}
+
+h1, h2 {
+	color: #ad009c;
+}
+
+h1, p.pic {
+	text-align: center;
+}
+
+th, td {
+	border: #ad009c solid 4px;
+	padding: 16px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
