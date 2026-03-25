@@ -1,5 +1,5 @@
 /*brown/text - #943400
-blue background - #85deff8
+blue background - #bbe3f2
 pink links/headers - #ad009c
 pink links hover - #db12c7*/
 
@@ -24,6 +24,10 @@ a:hover {
 
 h1, h2 {
 	color: #ad009c;
+}
+
+h2 {
+	text-decoration: underline;
 }
 
 h1, p.pic {
